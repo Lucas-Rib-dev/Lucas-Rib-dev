@@ -1,4 +1,6 @@
-## Hi there 👋
+## Opa, tudo bem? ✨👀
+
+🐱‍👓 - Sou um desenvolvedor em desenvolvimento... Estou cursando o primeiro semestre de Desenvolvimento de Software e Multiplataformas na FATEC de Registro
 
 <!--
 **Lucas-Rib-dev/Lucas-Rib-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
