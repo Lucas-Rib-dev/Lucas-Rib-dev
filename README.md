@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=F70000&center=true&width=435&lines=ja+bora)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=600&size=50&pause=1000&color=F70000&center=true&width=500&lines=ja+bora)](https://git.io/typing-svg)
 
 ## Opa, tudo bem? ✨👀
 
