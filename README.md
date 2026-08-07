@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/Ja+boraFirst+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ## Opa, tudo bem? ✨👀
 
 🐱‍👓 - Sou um desenvolvedor em desenvolvimento... Estou cursando o segundo semestre de Desenvolvimento de Software e Multiplataformas na FATEC de Registro
