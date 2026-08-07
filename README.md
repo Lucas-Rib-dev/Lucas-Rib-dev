@@ -3,15 +3,15 @@
 🐱‍👓 - Sou um desenvolvedor em desenvolvimento... Estou cursando o segundo semestre de Desenvolvimento de Software e Multiplataformas na FATEC de Registro
 
 <div>
-<i class="devicon-css3-plain"></i>
+          <i class="devicon-css3-plain"></i>
 
-<i class="devicon-godot-plain colored"></i>
+          <i class="devicon-godot-plain colored"></i>
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
-<i class="devicon-javascript-plain colored"></i>
+          <i class="devicon-javascript-plain colored"></i>
 
-<i class="devicon-python-plain colored"></i>
+          <i class="devicon-python-plain colored"></i>
 </div>          
                               
 <!--
