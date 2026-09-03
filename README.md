@@ -14,11 +14,14 @@
 <img loading="lazy" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img loading="lazy" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-
-
+          
 
           
 </div>          
+<br>
+<div>
+          <img loading="lazy" align="center" height="600" width="800" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+</div>
                               
 <!--
 **Lucas-Rib-dev/Lucas-Rib-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
