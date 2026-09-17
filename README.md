@@ -7,7 +7,11 @@
 
 🐱‍👓 - Sou um desenvolvedor em desenvolvimento... Estou cursando o segundo semestre de Desenvolvimento de Software e Multiplataformas na FATEC de Registro
 
-       
+<div>
+       <img width="750" height="600" alt="yami GIF" src="https://github.com/user-attachments/assets/f9d6ec3b-0fae-4809-8977-f4380e4a0cb1" />
+
+</div>
+       <h2><strong>"Coração das cartas, guie-me!"</strong></h2>
 <br>
 <div>
           <img width="250" height="350" alt="YuGiOh (1)" src="https://github.com/user-attachments/assets/90db66c8-58a9-408c-9e83-9a6365d6d2e9" />
