@@ -1,3 +1,7 @@
+![Uploading git-original.svg…]()
+
+
+
 
 
 ## Opa, tudo bem? ✨👀
@@ -16,11 +20,12 @@
 
           
 
-          
+
+
 </div>          
 <br>
 <div>
-          <img loading="lazy" align="center" height="600" width="800" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+          <img width="1000" height="1450" alt="YuGiOh" src="https://github.com/user-attachments/assets/1d135907-964d-46eb-b621-96982e89c64d" />
 </div>
                               
 <!--
