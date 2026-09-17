@@ -7,22 +7,7 @@
 
 🐱‍👓 - Sou um desenvolvedor em desenvolvimento... Estou cursando o segundo semestre de Desenvolvimento de Software e Multiplataformas na FATEC de Registro
 
-<div>
-
-<img loading="lazy" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img loading="lazy" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img loading="lazy" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img loading="lazy" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original.svg" />
-<img loading="lazy" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img loading="lazy" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img loading="lazy" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-          
-
-
-
-
-</div>          
+       
 <br>
 <div>
           <img width="250" height="350" alt="YuGiOh (1)" src="https://github.com/user-attachments/assets/90db66c8-58a9-408c-9e83-9a6365d6d2e9" />
